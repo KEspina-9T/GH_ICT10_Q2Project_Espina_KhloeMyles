@@ -97,7 +97,7 @@ div {
     background-color: #4e2648;
     color: #F3E5AB;
     text-align: center;
-    padding: 15px;
+    padding: 12px;
     margin-top: 40px;
     position: fixed;
     bottom: 0;
@@ -112,4 +112,5 @@ div {
 
 .footer a:hover {
     color: #D4AF37;
+
 }
